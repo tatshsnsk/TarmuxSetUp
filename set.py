@@ -1,0 +1,2 @@
+import Tarmuxset
+Tarmuxset.sr()
