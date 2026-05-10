@@ -1,2 +1,2 @@
 import Tarmuxset
-Tarmuxset.sr()
+print(dir(Tarmuxset))
