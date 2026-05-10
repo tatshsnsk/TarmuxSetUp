@@ -1,2 +1,2 @@
 import Tarmuxset
-print(dir(Tarmuxset))
+Tarmuxset.auto_run()
